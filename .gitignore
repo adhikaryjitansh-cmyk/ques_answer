@@ -18,7 +18,14 @@
 /public/storage
 /storage/*.key
 /storage/pail
+/storage/app/modelscope_cache
+/storage/app/pdfs
+/storage/app/public/question_images
 /vendor
 Homestead.json
 Homestead.yaml
 Thumbs.db
+*.exe
+*.jpg
+*.png
+*.pdf
